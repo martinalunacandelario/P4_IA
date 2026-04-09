@@ -1704,3 +1704,5 @@ void loop() {
     // ya estan ejecutandose concurrentemente en los dos nucleos del ESP32
     vTaskDelay(pdMS_TO_TICKS(1000));
 }
+
+//
